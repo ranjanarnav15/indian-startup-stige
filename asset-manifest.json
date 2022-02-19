@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/indian-startup-stige/static/css/main.4cce2d3f.chunk.css",
+    "main.js": "/indian-startup-stige/static/js/main.1e3b6190.chunk.js",
+    "main.js.map": "/indian-startup-stige/static/js/main.1e3b6190.chunk.js.map",
+    "runtime-main.js": "/indian-startup-stige/static/js/runtime-main.84924b7f.js",
+    "runtime-main.js.map": "/indian-startup-stige/static/js/runtime-main.84924b7f.js.map",
+    "static/css/2.f2512455.chunk.css": "/indian-startup-stige/static/css/2.f2512455.chunk.css",
+    "static/js/2.1c5c8b10.chunk.js": "/indian-startup-stige/static/js/2.1c5c8b10.chunk.js",
+    "static/js/2.1c5c8b10.chunk.js.map": "/indian-startup-stige/static/js/2.1c5c8b10.chunk.js.map",
+    "index.html": "/indian-startup-stige/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/indian-startup-stige/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4cce2d3f.chunk.css.map": "/indian-startup-stige/static/css/main.4cce2d3f.chunk.css.map",
+    "static/js/2.1c5c8b10.chunk.js.LICENSE.txt": "/indian-startup-stige/static/js/2.1c5c8b10.chunk.js.LICENSE.txt",
+    "static/media/one.adce349f.png": "/indian-startup-stige/static/media/one.adce349f.png",
+    "static/media/three.18dc31d2.png": "/indian-startup-stige/static/media/three.18dc31d2.png",
+    "static/media/two.c874b161.png": "/indian-startup-stige/static/media/two.c874b161.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84924b7f.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.1c5c8b10.chunk.js",
+    "static/css/main.4cce2d3f.chunk.css",
+    "static/js/main.1e3b6190.chunk.js"
+  ]
+}
