@@ -1,0 +1,73 @@
+.footer {
+  background-color: #333;
+  width: 100%;
+  margin-top: 25px;
+}
+.li_footer {
+  text-align: left;
+}
+.listing {
+  text-align: left;
+  color: white;
+}
+.footer_a {
+  color: white;
+  text-decoration: none;
+}
+.footer_a:hover {
+  color: white;
+  text-decoration: none;
+}
+.horiRow {
+  color: white;
+}
+.getApp {
+  color: white;
+  margin-right: 32px;
+  border: 1px solid white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  float: left;
+}
+.playApp {
+  color: white;
+  text-decoration: none;
+}
+.playApp:hover {
+  color: white;
+  text-decoration: none;
+}
+.socialMedia {
+  font-size: 25px;
+}
+.socialMediaIcons {
+  margin-right: 20px;
+  color: white;
+}
+.footer_final {
+  display: flex;
+}
+.left_final,
+.right_final {
+  flex: 1;
+}
+.copyright {
+  float: right;
+
+  color: white;
+}
+.offer_badge {
+  background-color: orange;
+  border-radius: 5px;
+  padding: 3px;
+  font-size: 15px;
+  margin-left: 5px;
+}
+h5 > a {
+  color: white;
+  text-decoration: none;
+}
+h5 > a:hover {
+  color: white;
+  text-decoration: none;
+}

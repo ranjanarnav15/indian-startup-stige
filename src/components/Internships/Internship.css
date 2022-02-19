@@ -1,0 +1,11 @@
+.internship {
+  display: flex;
+}
+.left,
+.right {
+  flex: 1;
+}
+.view {
+  float: right;
+  margin-top: 20px;
+}
